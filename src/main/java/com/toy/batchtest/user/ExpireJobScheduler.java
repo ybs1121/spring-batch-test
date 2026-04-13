@@ -1,4 +1,4 @@
-package com.toy.batchtest;
+package com.toy.batchtest.user;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.batch.core.Job;
